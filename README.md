@@ -8,8 +8,13 @@
 ## Currently
 - Internship at Yayloh as fullstack developer in react and python. 
 - Studying AWS EC2 course from Campus Mölndal.
-## Looking for 👩‍💻
+## Looking for 🔭
 -  I’m looking for job opportunities related to web development.
+## Skills and software 👩‍💻
+html,
+css,
+javascript
 ## How to reach me 📫
   - shereenfatima1000@gmail.com
   - https://www.linkedin.com/in/mumtaz-fatima/
+  
