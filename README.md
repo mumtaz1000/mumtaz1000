@@ -4,9 +4,9 @@
 - Frontend develompent course from CMeducations.
 - Full stack web developemnt course from Medieinstitutet. 
 ## Internship ✍ 
-- 🔭 Frejac as UI/UX designer and frontend developer.
+- Frejac as UI/UX designer and frontend developer.
 ## Currently
-- Doing internship at Yayloh as fullstack developer in react and python. 
+- Internship at Yayloh as fullstack developer in react and python. 
 - Studying AWS EC2 course from Campus Mölndal.
 ## Looking for 👩‍💻
 -  I’m looking for job opportunities related to web development.
