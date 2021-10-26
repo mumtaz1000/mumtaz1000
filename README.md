@@ -20,8 +20,7 @@
 
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
-## Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Grupp_apple.git)
+
 ### Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=momo1000)
 
