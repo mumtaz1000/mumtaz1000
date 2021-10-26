@@ -10,18 +10,13 @@
 - Studying AWS EC2 course from Campus Mölndal.
 ## Looking for 🔭
 -  I’m looking for job opportunities related to web development.
-## Skills and software 👩‍💻
-html,
-css,
-javascript
+
 ## How to reach me 📫
   - shereenfatima1000@gmail.com
   - https://www.linkedin.com/in/mumtaz-fatima/
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=momo1000&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
 
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
