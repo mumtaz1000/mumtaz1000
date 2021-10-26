@@ -19,4 +19,5 @@ javascript
   - https://www.linkedin.com/in/mumtaz-fatima/
   
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=momo1000&show_icons=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
