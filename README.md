@@ -21,8 +21,7 @@
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
 ## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=https://github.com/Agnes-CeciliaBergqvist/Grupp_apple.git)
-https://github.com/Agnes-CeciliaBergqvist/Grupp_apple.git
+![Your Repository's Stats](https://contrib.rocks/image?repo=Grupp_apple.git)
 
 
 ### Profile View Counter
