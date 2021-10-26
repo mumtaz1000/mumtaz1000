@@ -20,6 +20,7 @@
 
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=momo1000)
