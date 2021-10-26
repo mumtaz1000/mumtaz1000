@@ -24,5 +24,7 @@ javascript
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=momo1000)
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/mumtaz1000)
+
 
 
