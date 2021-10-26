@@ -20,6 +20,9 @@ javascript
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=momo1000&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
+
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
 ## 3. Contributors Badge
