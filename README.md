@@ -21,3 +21,8 @@ javascript
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=momo1000&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=momo1000)
+
+
+
