@@ -15,19 +15,16 @@
   - shereenfatima1000@gmail.com
   - https://www.linkedin.com/in/mumtaz-fatima/
 
-## 1. GitHub Stats
+## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=momo1000&show_icons=true)
 
-## 2. Most Used Languages
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1000&theme=blue-green)
-## 3. Contributors Badge
+## Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=Grupp_apple.git)
-
-
 ### Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=momo1000)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/momo1000)
+
 
 
 
