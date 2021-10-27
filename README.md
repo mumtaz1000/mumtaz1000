@@ -1,13 +1,21 @@
 ### Hi there 👋 my name is Mumtaz Fatima  
+## Currently
+- Fullstack web developer internee at Yayloh. 
+- Studying AWS EC2 course from Campus Mölndal.
+- Working on 
+<p>
+  <img alt="Python" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
+  <img alt="Cypress" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label=" />
+  <img alt="AWS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=" />
+ </p>
+
 ## Education 🎓
 -  Bachelor's in Electrical Computer Engineering in 2014.
 - Frontend develompent course from CMeducations.
 - Full stack web developemnt course from Medieinstitutet. 
 ## Internship ✍ 
 - Frejac as UI/UX designer and frontend developer.
-## Currently
-- Internship at Yayloh as fullstack developer in react and python. 
-- Studying AWS EC2 course from Campus Mölndal.
+
 ## Looking for 🔭
 -  I’m looking for job opportunities related to web development.
 
