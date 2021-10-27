@@ -22,6 +22,14 @@
 ## How to reach me 📫
   - shereenfatima1000@gmail.com
   - https://www.linkedin.com/in/mumtaz-fatima/
+ <p>
+  <a href="mailto:shereenfatima1000@gmail.com">
+    <i class="fa fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/mumtaz-fatima" target="_blank">
+    <i class="fa fa-linkedin-square"></i>
+  </a>
+ </p>
 
 ## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=momo1000&show_icons=true)
