@@ -2,7 +2,7 @@
 ## Currently
 - Fullstack web developer internee at Nordic Web Team. 
 - Studying AWS EC2 course from Campus Mölndal.
-- Working on 
+- Working on PWA Studio and Google Analytics.
 
 ## Education 🎓
 -  Bachelor's in Electrical Computer Engineering in 2014.
