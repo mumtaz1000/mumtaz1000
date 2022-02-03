@@ -1,15 +1,16 @@
 ### Hi there 👋 my name is Mumtaz Fatima  
 ## Currently
 - Fullstack web developer internee at Nordic Web Team. 
-- Studying AWS EC2 course from Campus Mölndal.
 - Working on PWA Studio and Google Analytics.
 
 ## Education 🎓
 -  Bachelor's in Electrical Computer Engineering in 2014.
 - Frontend develompent course from CMeducations.
 - Full stack web developemnt course from Medieinstitutet. 
+- Studied AWS EC2 course from Campus Mölndal.
 ## Internship ✍ 
 - Frejac as UI/UX designer and frontend developer.
+- Yayloh as fullstack developer.
 
 ## Looking for 🔭
 -  I’m looking for job opportunities related to web development.
