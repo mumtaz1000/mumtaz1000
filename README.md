@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Mumtaz Fatima  
 ## Currently
 - Fullstack web developer internee at Nordic Web Team. 
-- Working on PWA Studio and Google Analytics.
+- Working on vue.js, nuxt.js and storyblok to create a multi-language website.
 
 ## Education 🎓
 -  Bachelor's in Electrical Computer Engineering in 2014.
@@ -11,6 +11,7 @@
 ## Internship ✍ 
 - Frejac as UI/UX designer and frontend developer.
 - Yayloh as fullstack developer.
+- Nordic Web Team as a fullstack developer.
 
 ## Looking for 🔭
 -  I’m looking for job opportunities related to web development.
