@@ -28,14 +28,6 @@
   </a>
  </p>
 
-<p align="center" vertical-align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=mumtaz1000&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumtaz1000&show_icons=true&theme=tokyonight&layout=compact">
-</p>
-
-### Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=mumtaz1000)
-
 
 
 
