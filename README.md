@@ -7,7 +7,7 @@
 - Frontend develompent course from CMeducations.
 - Full stack web developemnt course from Medieinstitutet. 
 - Studied AWS EC2 course from Campus Mölndal.
-- Completed fullstack web developement bootcamp from Novare Potential.
+- Completed fullstack java web developement bootcamp from Novare Potential.
  
 ## Internship ✍ 
 - Frejac as UI/UX designer and frontend developer.
