@@ -7,7 +7,7 @@
 
 ## Education 🎓
 -  Bachelor's in Electrical Computer Engineering in 2014.
-- Frontend develompent course from CMeducations.
+- Frontend develompent course from Change Maker educations.
 - Full stack web developemnt course from Medieinstitutet. 
 - Studied AWS EC2 course from Campus Mölndal.
 - Completed fullstack java web developement bootcamp from Novare Potential.
