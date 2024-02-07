@@ -1,6 +1,9 @@
 ### Hi there 👋 my name is Mumtaz Fatima  
 ## Currently
-- Fullstack java consultant at Tietoevry.
+- Fullstack java consultant at </SALT>
+
+## Work Experience 
+- Software developer consultant at Novare Potential AB.
 
 ## Education 🎓
 -  Bachelor's in Electrical Computer Engineering in 2014.
@@ -10,10 +13,10 @@
 - Completed fullstack java web developement bootcamp from Novare Potential.
  
 ## Internship ✍ 
-- Frejac as UI/UX designer and frontend developer.
-- Yayloh as fullstack developer.
-- Nordic Web Team as a fullstack developer.
-
+- Frejac as UI/UX designer and frontend developer - Summer Internship 
+- Yayloh as fullstack developer - LIA - I
+- Nordic Web Team as a fullstack developer - LIA - II
+- Ecombooster - Paid Internship 
 ## How to reach me 📫
   - shereenfatima1000@gmail.com
   - https://www.linkedin.com/in/mumtaz-fatima/
